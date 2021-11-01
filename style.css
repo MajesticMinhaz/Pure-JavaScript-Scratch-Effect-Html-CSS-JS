@@ -1,0 +1,20 @@
+body {
+	 margin: 0;
+}
+ #bridge {
+	 display: block;
+	 margin: 0 auto;
+	 background-image: url('./two.jpg');
+	 background-size: cover;
+	 width: 100%;
+	 max-width: 750px;
+	 height: auto;
+	 cursor: grabbing;
+}
+ #bridgeContainer {
+	 text-align: center;
+	 font-family: Avenir, sans-serif;
+}
+ #bridgeContainer figcaption {
+	 margin-top: 2rem;
+}
